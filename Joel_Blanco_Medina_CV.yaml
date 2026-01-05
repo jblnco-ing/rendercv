@@ -1,5 +1,5 @@
 cv:
-  name: Joel Blanco
+  name: Joel David Blanco Medina
   location: Guatire, Venezuela
   email: jblnco.ing@gmail.com
   # website: https://github.com/jblnco-ing TODO
@@ -11,8 +11,20 @@ cv:
 
   sections:
     resumen:
-      - Soy un ingeniero proactivo y creativo, con amplia capacidad de análisis, orientado a la solución de problemas con resultados de calidad.
-      - Aprendo rápido a utilizar e implementar nuevas tecnologías y herramientas.
+      # Opción 1: Perfil Senior & Líder Técnico (Activa)
+      - Software Engineer con más de 6 años de experiencia en el diseño y construcción de arquitecturas Full Stack escalables y de alto rendimiento.
+      - Trayectoria consolidada en sectores críticos como Fintech y banca, liderando la transformación de productos digitales y la optimización de ecosistemas tecnológicos maduros.
+      - Experto en resolución de desafíos técnicos complejos y en la implementación de soluciones innovadoras impulsadas por IA para acelerar el ciclo de vida del desarrollo.
+
+      # Opción 2: Perfil Orientado a Producto y Negocio (Comentada)
+      # - Ingeniero de Software enfocado en la creación de productos digitales que generan impacto directo en el negocio y la experiencia del usuario.
+      # - Especialista en transformar requerimientos complejos en soluciones técnicas robustas y seguras, con amplia experiencia en entornos ágiles de alto crecimiento.
+      # - Destacada capacidad de adaptabilidad técnica y liderazgo en el rescate de proyectos críticos, garantizando calidad, escalabilidad y excelencia técnica.
+
+      # Opción 3: Perfil "Todo-terreno" (Full Stack + DevOps) (Comentada)
+      # - Software Engineer con visión integral del desarrollo, desde la arquitectura del backend y servicios críticos hasta interfaces de usuario intuitivas y responsivas.
+      # - Experiencia probada gestionando todo el ciclo de vida de la aplicación, incluyendo administración de infraestructura de datos y automatización de procesos de despliegue.
+      # - Comprometido con la mejora continua, la mentoría técnica y el uso de tecnologías de vanguardia para resolver problemas de escalabilidad global.
 
     experiencia:
       - company: Banco Galicia
@@ -21,7 +33,10 @@ cv:
         start_date: 2022-05
         end_date: present
         highlights:
-          - Participo en el desarrollo del módulo dedicado a los negocios y comerciantes, creando la interface de usuario y aplicando lógica de negocio en el backend.
+          - Desarrollo y evolución de la plataforma digital para el segmento B2B, facilitando la gestión financiera y operativa de miles de comercios y empresas del ecosistema.
+          - Colaboración integral en el ciclo de vida del producto (Full Stack), desde la arquitectura de servicios críticos en el backend hasta la entrega de interfaces de usuario seguras y altamente intuitivas.
+          - Implementación de lógica de negocio compleja para el procesamiento de transacciones y servicios bancarios, asegurando altos estándares de calidad, seguridad y cumplimiento normativo.
+          - Participación activa en equipos ágiles de alto rendimiento, impulsando la entrega continua de valor y la mejora técnica mediante revisiones de código y diseño de soluciones escalables.
 
       - company: Cometa
         position: Software Engineer
@@ -29,10 +44,10 @@ cv:
         start_date: 2022-05
         end_date: 2025-09
         highlights:
-          - Desarrollo de aplicaciones web escalables con Next.js y Python.
-          - Refactorización de componentes front-end mejorando la experiencia de usuario y la satisfacción del cliente.
-          - Ganador de todas las hackathones internas de la empresa, creando una herramienta con IA para commits y pull requests automáticos.
-          - Optimización del frontend mediante la adaptación de endpoints a tRPC, reduciendo errores en la integración backend-frontend.
+          - Liderazgo en el diseño y despliegue de arquitecturas web escalables, garantizando alta disponibilidad y rendimiento bajo demanda.
+          - Transformación de la interfaz de usuario mediante una refactorización integral, logrando un incremento medible en la retención y satisfacción del cliente.
+          - Automatización del flujo de desarrollo mediante la implementación de herramientas con Inteligencia Artificial para la gestión inteligente de código y revisiones.
+          - Optimización de la comunicación entre servicios mediante la implementación de contratos de API fuertemente tipados, eliminando errores de integración y acelerando el tiempo de entrega.
 
       - company: Microvoz Latam
         position: Engineer Full Stack Semi Senior
@@ -40,7 +55,9 @@ cv:
         start_date: 2021-04
         end_date: 2022-05
         highlights:
-          - Administrador de Base de Datos y encargado del desarrollo y mantenimiento del sistema de call center.
+          - Gestión de la infraestructura de datos, optimizando el rendimiento de consultas y garantizando la integridad de la información en sistemas críticos de alta concurrencia.
+          - Desarrollo evolutivo y mantenimiento preventivo del sistema core de Call Center, mejorando la estabilidad del servicio y la experiencia de los operadores.
+          - Implementación de soluciones integrales para el procesamiento de datos en tiempo real, asegurando la escalabilidad del sistema bajo demanda operativa.
 
       - company: DONDELOVEO
         position: Engineer Full Stack
@@ -48,18 +65,20 @@ cv:
         start_date: 2020-07
         end_date: 2020-08
         highlights:
-          - Desarrollador en frontend, específicamente en el Widget Component de la API de DONDELOVEO.
+          - Diseño y desarrollo de componentes web altamente modulares para el widget oficial de la plataforma, permitiendo la integración fluida de servicios en sitios de terceros.
+          - Optimización del rendimiento y la compatibilidad multiplataforma de componentes embebibles, garantizando una experiencia de usuario consistente y de baja latencia.
+          - Implementación de interfaces 100% responsivas y adaptables, garantizando una visualización impecable y un rendimiento de alta velocidad en cualquier dispositivo móvil o de escritorio.
 
       - company: Corcaribe Tecnologias
-        position: Desarrollador Full Stack
+        position: Desarrollador Full Stack / Líder Técnico
         location: Venezuela
         start_date: 2018-09
         end_date: 2021-04
         highlights:
-          - Desempeño como Full Stack Developer, Administrador de Base de datos, DevOps, Capacitador y Líder de Equipo.
-          - Desarrollo de App Móvil, API, Sistema Administrativo y Generador de Reportes.
-          - "Logro: Solución a un problema crítico de un proyecto que estuvo detenido por un año en mis primeros días."
-          - "Aprendizaje autodidacta de Laravel en 3 semanas para el desarrollo de APIs y mantenimiento de sistemas en Ionic con Angular."
+          - Liderazgo técnico multidisciplinario en el diseño e implementación de infraestructuras tecnológicas, abarcando desde la administración de bases de datos hasta la automatización de procesos de despliegue (DevOps).
+          - Dirección y desarrollo de ecosistemas digitales integrales, incluyendo aplicaciones móviles, arquitecturas de API escalables y sistemas administrativos con módulos avanzados de inteligencia de negocios.
+          - Estabilización y rescate de proyectos de alta complejidad técnica que se encontraban estancados por periodos prolongados, logrando su exitosa puesta en producción.
+          - Impulso del crecimiento del equipo mediante mentorías técnicas y una alta capacidad de adaptabilidad, logrando la implementación exitosa de nuevas soluciones tecnológicas bajo plazos de tiempo extremadamente reducidos.
 
     educación:
       - institution: Universidad Nacional Experimental Politécnica Antonio José de Sucre (UNEXPO)
@@ -69,14 +88,18 @@ cv:
         end_date: 2018-09
 
     conocimientos_técnicos:
-      - label: Lenguajes y Frameworks
-        details: Python, JavaScript, TypeScript, Java, C#, PHP, Django, FastAPI, Next.js, Nestjs, Laravel, Node.js, React, Angular, Vue.js, React Native, Ionic.
-      - label: Herramientas y Otros
-        details: Docker, Linux, Git, Postgresql, Mysql, Graphql, Azure, tRPC, Microservicios, Scrum, Sass, Three.js.
+      - label: Backend & Lenguajes
+        details: Python (FastAPI, Django), Node.js (NestJS), TypeScript, JavaScript, Java, PHP (Laravel), C#.
+      - label: Frontend & Mobile
+        details: React (Next.js), Tailwind CSS, Angular, Vue.js, React Native, Ionic, Sass, Three.js.
+      - label: Infraestructura & DevOps
+        details: Docker, Linux, Git, Azure, tRPC, Microservicios, APIs REST.
+      - label: Bases de Datos & Otros
+        details: PostgreSQL, MySQL, GraphQL, Scrum.
 
     idiomas:
       - bullet: "Español: Nativo"
-      - bullet: "Inglés: Básico"
+      - bullet: "Inglés: Técnico"
 
 design:
   theme: engineeringclassic
