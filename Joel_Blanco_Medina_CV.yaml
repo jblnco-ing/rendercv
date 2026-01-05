@@ -1,0 +1,85 @@
+cv:
+  name: Joel Blanco
+  location: Guatire, Venezuela
+  email: jblnco.ing@gmail.com
+  # website: https://github.com/jblnco-ing TODO
+  social_networks:
+    - network: LinkedIn
+      username: joelblanco
+    - network: GitHub
+      username: jblnco-ing
+
+  sections:
+    resumen:
+      - Soy un ingeniero proactivo y creativo, con amplia capacidad de análisis, orientado a la solución de problemas con resultados de calidad.
+      - Aprendo rápido a utilizar e implementar nuevas tecnologías y herramientas.
+
+    experiencia:
+      - company: Banco Galicia
+        position: Software Engineer
+        location: Argentina (Remoto)
+        start_date: 2022-05
+        end_date: present
+        highlights:
+          - Participo en el desarrollo del módulo dedicado a los negocios y comerciantes, creando la interface de usuario y aplicando lógica de negocio en el backend.
+
+      - company: Cometa
+        position: Software Engineer
+        location: Mexico (Remoto)
+        start_date: 2022-05
+        end_date: 2025-09
+        highlights:
+          - Desarrollo de aplicaciones web escalables con Next.js y Python.
+          - Refactorización de componentes front-end mejorando la experiencia de usuario y la satisfacción del cliente.
+          - Ganador de todas las hackathones internas de la empresa, creando una herramienta con IA para commits y pull requests automáticos.
+          - Optimización del frontend mediante la adaptación de endpoints a tRPC, reduciendo errores en la integración backend-frontend.
+
+      - company: Microvoz Latam
+        position: Engineer Full Stack Semi Senior
+        location: Argentina (Remoto)
+        start_date: 2021-04
+        end_date: 2022-05
+        highlights:
+          - Administrador de Base de Datos y encargado del desarrollo y mantenimiento del sistema de call center.
+
+      - company: DONDELOVEO
+        position: Engineer Full Stack
+        location: Argentina (Remoto)
+        start_date: 2020-07
+        end_date: 2020-08
+        highlights:
+          - Desarrollador en frontend, específicamente en el Widget Component de la API de DONDELOVEO.
+
+      - company: Corcaribe Tecnologias
+        position: Desarrollador Full Stack
+        location: Venezuela
+        start_date: 2018-09
+        end_date: 2021-04
+        highlights:
+          - Desempeño como Full Stack Developer, Administrador de Base de datos, DevOps, Capacitador y Líder de Equipo.
+          - Desarrollo de App Móvil, API, Sistema Administrativo y Generador de Reportes.
+          - "Logro: Solución a un problema crítico de un proyecto que estuvo detenido por un año en mis primeros días."
+          - "Aprendizaje autodidacta de Laravel en 3 semanas para el desarrollo de APIs y mantenimiento de sistemas en Ionic con Angular."
+
+    educación:
+      - institution: Universidad Nacional Experimental Politécnica Antonio José de Sucre (UNEXPO)
+        area: Ingeniería Mecatrónica
+        degree: BS
+        start_date: 2013-10
+        end_date: 2018-09
+
+    conocimientos_técnicos:
+      - label: Lenguajes y Frameworks
+        details: Python, JavaScript, TypeScript, Java, C#, PHP, Django, FastAPI, Next.js, Nestjs, Laravel, Node.js, React, Angular, Vue.js, React Native, Ionic.
+      - label: Herramientas y Otros
+        details: Docker, Linux, Git, Postgresql, Mysql, Graphql, Azure, tRPC, Microservicios, Scrum, Sass, Three.js.
+
+    idiomas:
+      - bullet: "Español: Nativo"
+      - bullet: "Inglés: Básico"
+
+design:
+  theme: engineeringclassic
+
+locale:
+  language: spanish
