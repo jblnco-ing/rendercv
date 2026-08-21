@@ -27,11 +27,20 @@ cv:
       # - Comprometido con la mejora continua, la mentoría técnica y el uso de tecnologías de vanguardia para resolver problemas de escalabilidad global.
 
     experiencia:
+      - company: OneInfo Consulting
+        position: Full Stack Developer
+        location: Argentina (Remoto)
+        start_date: 2026-02
+        end_date: present
+        highlights:
+          - Liderazgo en el diseño y desarrollo del módulo de Recursos Humanos para el sistema de control de transporte de Metropol (Chile y Argentina), optimizando el seguimiento de asistencia, tiempos de descanso y horas de trabajo de conductores.
+          - Automatización e integración del consumo de APIs mediante la generación automatizada de clientes con tipado estricto, acelerando los tiempos de entrega del frontend y eliminando errores de integración manual.
+          - Colaboración en células ágiles bajo estándares de Clean Code y desarrollo modular para garantizar la escalabilidad y mantenibilidad a largo plazo de la plataforma.
       - company: Banco Galicia
         position: Software Engineer
-        location: Argentina (Remoto)
+        location: Argentina (part-time Remoto)
         start_date: 2022-05
-        end_date: present
+        end_date: 2026-02
         highlights:
           - Desarrollo y evolución de la plataforma digital para el segmento B2B, facilitando la gestión financiera y operativa de miles de comercios y empresas del ecosistema.
           - Colaboración integral en el ciclo de vida del producto (Full Stack), desde la arquitectura de servicios críticos en el backend hasta la entrega de interfaces de usuario seguras y altamente intuitivas.
@@ -44,10 +53,10 @@ cv:
         start_date: 2022-05
         end_date: 2025-09
         highlights:
-          - Liderazgo en el diseño y despliegue de arquitecturas web escalables, garantizando alta disponibilidad y rendimiento bajo demanda.
-          - Transformación de la interfaz de usuario mediante una refactorización integral, logrando un incremento medible en la retención y satisfacción del cliente.
-          - Automatización del flujo de desarrollo mediante la implementación de herramientas con Inteligencia Artificial para la gestión inteligente de código y revisiones.
-          - Optimización de la comunicación entre servicios mediante la implementación de contratos de API fuertemente tipados, eliminando errores de integración y acelerando el tiempo de entrega.
+          - Liderazgo en el desarrollo "greenfield" del portal de pagos de colegiaturas, diseñando arquitecturas escalables y colaborando con equipos multidisciplinarios para transformar requerimientos en productos de alto impacto.
+          - Implementación estratégica de un sistema de autenticación "Passwordless" (Magic Links), eliminando fricciones de acceso y logrando una tasa de cero tickets de soporte por problemas de inicio de sesión desde el lanzamiento.
+          - Desarrollo de lógica de negocio compleja para la gestión financiera, asegurando la integridad de los datos en el frontend mediante validaciones secuenciales bidireccionales y flujos de pago controlados.
+          - Optimización del ciclo de desarrollo y la calidad del código mediante el uso de tRPC para garantizar tipado estricto en APIs y la creación de herramientas con IA para la automatización de revisiones y commits.
 
       - company: Microvoz Latam
         position: Engineer Full Stack Semi Senior
@@ -89,13 +98,13 @@ cv:
 
     conocimientos_técnicos:
       - label: Backend & Lenguajes
-        details: Python (FastAPI, Django), Node.js (NestJS), TypeScript, JavaScript, Java, PHP (Laravel), C#.
+        details: Python (FastAPI, Django), Node.js (NestJS), TypeScript, JavaScript, Java, PHP (Laravel), C# (.NET 8).
       - label: Frontend & Mobile
-        details: React (Next.js), Tailwind CSS, Angular, Vue.js, React Native, Ionic, Sass, Three.js.
+        details: React (Next.js, React Query), Tailwind CSS, Angular, Vue.js, React Native, Ionic, Sass, Three.js, pnpm/npm.
       - label: Infraestructura & DevOps
-        details: Docker, Linux, Git, Azure, tRPC, Microservicios, APIs REST.
+        details: Docker, Linux, Git, Azure, Swagger, HeyAPI, tRPC, Microservicios, APIs REST.
       - label: Bases de Datos & Otros
-        details: PostgreSQL, MySQL, GraphQL, Scrum.
+        details: PostgreSQL, MySQL, GraphQL, Scrum, Odoo.
 
     idiomas:
       - bullet: "Español: Nativo"

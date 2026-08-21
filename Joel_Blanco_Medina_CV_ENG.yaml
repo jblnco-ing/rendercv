@@ -1,0 +1,118 @@
+cv:
+  name: Joel David Blanco Medina
+  location: Guatire, Venezuela
+  email: jblnco.ing@gmail.com
+  # website: https://github.com/jblnco-ing TODO
+  social_networks:
+    - network: LinkedIn
+      username: joelblanco
+    - network: GitHub
+      username: jblnco-ing
+
+  sections:
+    summary:
+      # Option 1: Senior Profile & Technical Lead (Active)
+      - Software Engineer with 6+ years of experience designing and building scalable, high-performance Full Stack architectures.
+      - Proven track record in critical sectors such as Fintech and Banking, leading the digital transformation of products and optimizing mature technological ecosystems.
+      - Expert in resolving complex technical challenges and implementing innovative AI-driven solutions to accelerate the development lifecycle.
+
+      # Option 2: Product & Business Oriented Profile (Commented)
+      # - Software Engineer focused on building digital products that generate direct business impact and enhance user experience.
+      # - Specialist in transforming complex requirements into robust and secure technical solutions, with extensive experience in high-growth agile environments.
+      # - Outstanding adaptability and leadership in rescuing critical projects, ensuring quality, scalability, and technical excellence.
+
+      # Option 3: "All-Rounder" Profile (Full Stack + DevOps) (Commented)
+      # - Software Engineer with a comprehensive view of development, from architecting backend and critical services to intuitive, responsive user interfaces.
+      # - Proven experience managing the full application lifecycle, including data infrastructure administration and deployment automation.
+      # - Committed to continuous improvement, technical mentorship, and leveraging cutting-edge technologies to solve global scalability problems.
+
+    experience:
+      - company: Banco Galicia
+        position: Software Engineer
+        location: Argentina (Remote)
+        start_date: 2022-05
+        end_date: present
+        highlights:
+          - Development and evolution of the digital B2B platform, facilitating financial and operational management for thousands of businesses in the ecosystem.
+          - Full Stack collaboration across the product lifecycle, from architecting critical backend services to delivering secure, highly intuitive user interfaces.
+          - Implemented complex business logic for transaction processing and banking services, ensuring high quality, security, and regulatory compliance standards.
+          - Active participation in high-performance agile teams, driving continuous value delivery and technical improvement through code reviews and scalable solution design.
+
+      - company: Cometa
+        position: Software Engineer
+        location: Mexico (Remote)
+        start_date: 2022-05
+        end_date: 2025-09
+        highlights:
+          - Led the "greenfield" development of the tuition payment portal, designing scalable architectures and collaborating with multidisciplinary teams to transform requirements into high-impact products.
+          - Strategic implementation of a "Passwordless" authentication system (Magic Links), eliminating access friction and achieving zero support tickets for login issues since launch.
+          - Developed complex business logic for financial management, ensuring data integrity in the frontend through bidirectional sequential validations and controlled payment flows.
+          - Optimized the development cycle and code quality by using tRPC to ensure strict typing in APIs and creating AI tools for automating reviews and commits.
+
+      - company: Microvoz Latam
+        position: Semi Senior Full Stack Engineer
+        location: Argentina (Remote)
+        start_date: 2021-04
+        end_date: 2022-05
+        highlights:
+          - Managed data infrastructure, optimizing query performance and ensuring data integrity in critical high-concurrency systems.
+          - Performed evolutionary development and preventive maintenance of the core Call Center system, improving service stability and operator experience.
+          - Implemented integral solutions for real-time data processing, ensuring system scalability under operational demand.
+
+      - company: DONDELOVEO
+        position: Full Stack Engineer
+        location: Argentina (Remote)
+        start_date: 2020-07
+        end_date: 2020-08
+        highlights:
+          - Designed and developed highly modular web components for the official platform widget, enabling seamless integration into third-party sites.
+          - Optimized embedded components for cross-platform compatibility and performance, ensuring a consistent, low-latency user experience.
+          - Implemented 100% responsive and adaptive interfaces, ensuring pixel-perfect visualization and high-speed performance on any device.
+
+      - company: Corcaribe Tecnologias
+        position: Full Stack Developer / Technical Lead
+        location: Venezuela
+        start_date: 2018-09
+        end_date: 2021-04
+        highlights:
+          - Multidisciplinary technical leadership in designing and implementing technological infrastructures, ranging from database administration to deployment automation (DevOps).
+          - Directed and developed comprehensive digital ecosystems, including mobile apps, scalable API architectures, and administrative systems with advanced business intelligence modules.
+          - Stabilized and rescued complex legacy projects that had been stalled for prolonged periods, successfully bringing them to production.
+          - Fostered team growth through technical mentorship and high adaptability, achieving successful implementation of new technologies under tight deadlines.
+
+    education:
+      - institution: Universidad Nacional Experimental Politécnica Antonio José de Sucre (UNEXPO)
+        area: Mechatronics Engineering
+        degree: BS
+        start_date: 2013-10
+        end_date: 2018-09
+
+    technical_skills:
+      - label: Backend & Languages
+        details: Python (FastAPI, Django), Node.js (NestJS), TypeScript, JavaScript, Java, PHP (Laravel), C#.
+      - label: Frontend & Mobile
+        details: React (Next.js), Tailwind CSS, Angular, Vue.js, React Native, Ionic, Sass, Three.js.
+      - label: Infrastructure & DevOps
+        details: Docker, Linux, Git, Azure, tRPC, Microservices, REST APIs.
+      - label: Databases & Others
+        details: PostgreSQL, MySQL, GraphQL, Scrum, Odoo.
+
+    languages:
+      - bullet: "Spanish: Native"
+      - bullet: "English: Technical Proficiency"
+
+design:
+  theme: engineeringclassic
+
+locale:
+  language: english
+9945,24
+8736,74
+930,75
+930,75
+647,14
+8460,1244
+6849,16
+1150,16 
+
+26$

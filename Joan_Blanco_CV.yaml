@@ -1,0 +1,86 @@
+cv:
+  name: Joan Blanco
+  location: Buenos Aires, Argentina
+  email: joan1233blanco@gmail.com
+  phone: "+54 9 11 7084-8979"
+  social_networks:
+    - network: LinkedIn
+      username: joan-blanco
+    - network: GitHub
+      username: joankenobi
+  custom_connections:
+    - placeholder: Portfolio
+      url: https://portfoliojb.carrd.co
+      fontawesome_icon: briefcase
+
+  sections:
+    resumen:
+      - Ingeniero de Software con sólida trayectoria en banca y fintech, especializado en arquitecturas distribuidas de alta concurrencia y sistemas de misión crítica. Experto en optimización de rendimiento y costos mediante estrategias Open Source, combinando visión técnica con la entrega de soluciones escalables en ecosistemas políglotas.
+
+    experiencias_de_trabajo:
+      - company: Banco Galicia Argentina
+        position: Desarrollador FullStack Senior
+        date: May 2022 – Presente
+        highlights:
+          - Lideré la arquitectura de un servicio crítico de alta concurrencia, asegurando disponibilidad y escalabilidad en un entorno de alto volumen transaccional.
+          - Orquesté la refactorización de 10 servicios REST, mejorando la eficiencia operativa y reduciendo la deuda técnica.
+          - Impulsé la colaboración técnica y el mentoring dentro del equipo, elevando el estándar de calidad y comunicación.
+
+      - company: Geopulso
+        position: Ingeniero de Software y Científico de Datos
+        date: May 2021 – Nov 2022
+        highlights:
+          - Diseñé e implementé modelos predictivos para mercados financieros, integrando pipelines de datos automatizados.
+          - Procesé y normalicé complejos sets de datos heterogéneos para el entrenamiento de modelos analíticos.
+          - Implementé soluciones de web scraping y análisis de datos estratégicos para potenciar la toma de decisiones.
+
+      - company: Unexpo
+        position: Consultor de Operaciones TI
+        date: Jul 2021 – Oct 2021
+        highlights:
+          - Implementé y administré el sistema de gestión de incidencias (Jira Service Management) para la plataforma educativa virtual.
+          - Logré la eliminación total de costos de licenciamiento mediante la migración estratégica a soluciones Open Source.
+
+    certificaciones:
+      - name: Arquitectura Backend y Microservicios (NestJS)
+        institution: Platzi
+        date: Feb 2023
+      - name: Desarrollo de APIs de Alto Rendimiento (FastAPI)
+        institution: Platzi
+        date: Ene 2023
+      - name: Scientific Computing & Research with Python
+        institution: HarvardX
+        date: Ene 2022
+      - name: Análisis y Procesamiento de Datos (Pandas & NumPy)
+        institution: Platzi
+        date: Nov 2022
+
+    educación:
+      - institution: Universidad Nacional Experimental Politécnica Antonio José de Sucre (UNEXPO)
+        area: Ingeniería Mecatrónica
+        degree: Ingeniero Mecatrónico
+        date: Nov 2022
+
+    habilidades_y_conocimientos:
+      - label: Lenguajes
+        details: Java, Python, TypeScript, JavaScript
+      - label: Backend & Frameworks
+        details: NestJS, Django, FastAPI, React
+      - label: Infraestructura & Datos
+        details: AWS, Docker, Git, SQL, NoSQL, Pandas, NumPy
+      - label: Metodologías
+        details: Arquitectura Escalable, Agile/Scrum, Mentoring Técnico
+
+    idiomas:
+      - label: Español
+        details: Nativo
+      - label: Inglés
+        details: B1
+
+design:
+  theme: engineeringclassic
+  page:
+    show_footer: false
+
+locale:
+  language: spanish
